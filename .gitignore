@@ -1,0 +1,10 @@
+**dist**
+**__pycache__**
+*.pyc
+*.test-results.xml
+*.egg-info
+*.log
+._*
+*.DS_Store*
+*.idea
+*.vscode
